@@ -7,3 +7,13 @@ p {
     color: blue;
     font-size: 24px;
 }
+
+#three {
+    font-size: 24px;
+}
+
+#four {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #33ff33;
+}
